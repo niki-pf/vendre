@@ -34,6 +34,12 @@ export default {
   box-sizing: border-box;
   max-width: 100%;
 }
+@media (max-width: 600px) {
+  .card {
+    width: 80%;
+    margin: auto;
+  }
+}
 .card img {
   width: 100px;
   height: 100px;

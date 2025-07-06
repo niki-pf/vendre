@@ -1,6 +1,6 @@
 <template>
   <section class="hero">
-    <h1>Frontend + Vue + Ambition</h1>
+    <h1>Hej Vendre – här är mitt bidrag!</h1>
     <p>
       Ett snabbt projekt inför praktikansökan hos Vendre –
       <br />
